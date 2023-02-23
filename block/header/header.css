@@ -1,0 +1,8 @@
+.header{
+    display:flex;
+    width: 1184px;
+    height: 52px;
+    margin:28px 48px 0 48px;
+    border:solid 1px red;
+    justify-content:space-between;
+}
