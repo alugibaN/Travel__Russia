@@ -357,6 +357,7 @@
   font-size: 12px;
   line-height: 18px;
 }
+
 .intro__list_span{
   font-weight: 400;
   font-size: 12px;
@@ -660,7 +661,7 @@
   }
 }
 
-.cover__link::before{ 
+.cover__overlay::before{ 
   content: ''; 
   position: absolute; 
   background-color: #2A2C2F; 
@@ -673,7 +674,7 @@
   margin: 0; 
   z-index: 1; 
 } 
-.cover__link:hover::before{ 
+.cover__overlay:hover::before{ 
   opacity: 0.8;
 }
 

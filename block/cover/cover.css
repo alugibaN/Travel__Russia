@@ -1,0 +1,11 @@
+.cover{
+    font-family: 'Inter', 'Arial', sans-serif;
+    color:#ffffff;
+    margin:0 auto 92px auto;
+  }
+  
+  @media screen and (max-width:320px){
+    .cover{
+      margin-bottom:64px;
+    }
+  }
