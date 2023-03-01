@@ -3,7 +3,7 @@
     max-width:1184px;
     height:auto;
     text-decoration:none;
-    background-image:url(../../../images/cover-trains.jpg);
+    background-image:linear-gradient(rgba(0,0,0,0.1),rgba(0,0,0,0.1)),url(../../../images/cover-trains.jpg);
     display: flex; 
     flex-direction: column; 
     justify-content: center; 
@@ -38,5 +38,5 @@
     z-index: 1;
   }  
   .cover__overlay:hover::before{ 
-    opacity: 0.8;
+    opacity: 0.5;
   }
