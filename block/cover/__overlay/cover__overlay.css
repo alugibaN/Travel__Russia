@@ -3,7 +3,7 @@
     max-width:1184px;
     height:auto;
     text-decoration:none;
-    background-image:url(../images/cover-trains.jpg);
+    background-image:url(../../../images/cover-trains.jpg);
     display: flex; 
     flex-direction: column; 
     justify-content: center; 
